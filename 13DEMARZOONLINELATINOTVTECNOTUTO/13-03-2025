@@ -711,6 +711,20 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.cJI84jq_gkOXAs7xrFfPsAAAAA?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",MUFASA
+https://canvasolutions.com.mx/stuff/mufasa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pMIkaQQEBvQemptFPMU5XsblOXB.jpg" group-title="MOVIES ESTRENOS HD",PRESA
+https://polimor.club/stuff/presa.mp4
+#EXTINF:-1 tvg-logo="https://freakingeek.com/wp-content/uploads/2025/02/DemonCity-Banniere-800x445.png" group-title="MOVIES ESTRENOS HD",DEMON CITY
+http://vod.tuxchannel.mx/peliculas/720/demon%20city%202025.mkv
+#EXTINF:-1 tvg-logo="https://www.nwpb.org/wp-content/uploads/2025/02/Love-hurts.jpg" group-title="MOVIES ESTRENOS HD",AMOR EXPLOSIVO
+https://canvasolutions.com.mx/stuff/amor.mp4
+#EXTINF:-1 tvg-logo="https://fmglobo.com/u/fotografias/m/2025/3/7/f960x540-27022_101097_5050.jpg" group-title="MOVIES ESTRENOS HD",CONTRA ATAQUE
+https://canvasolutions.com.mx/stuff/contra.mp4
+#EXTINF:-1 tvg-logo="https://occ-0-3011-114.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZQvu7ZWk4UC9r86CgweEuEmxHpQnt7MTqXkccCgivZClhIKHkN_55NZGKNVJAqAbS5e2P4Wd4Er9joOHwprdhjW6ybcsJPIlHGN.jpg?r=0cd" group-title="MOVIES ESTRENOS HD",PLANKTON LA PELICULA
+http://vod.tuxchannel.mx/peliculas/720/plankton%20the%20movie%202025.mkv
+#EXTINF:-1 tvg-logo="https://files.fairu.app/9e31eebf-c73e-4417-87a6-dbc5b799fcb2/companion-die-perfekte-begleitung-backdrop-67ad07cc5f568.jpg?width=992&quality=75" group-title="MOVIES ESTRENOS HD",COMPAÑERA PERFECTA
+https://canvasolutions.com.mx/stuff/compa.mp4
 #EXTINF:-1 tvg-logo="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/02/sonic-3-movie-trailer-logo.jpg" group-title="MOVIES ESTRENOS HD",SONIC 3
 http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%203%202024.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JI4fbFT7NvQ/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",MOANA 2
